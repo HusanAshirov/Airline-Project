@@ -78,15 +78,12 @@ https://adoptium.net
 - Set environment variable:
   ```text
   JAVA_HOME = C:\Program Files\Java\jdk-11
-````
+  ```
 
 * Add to PATH:
-
   ```text
   %JAVA_HOME%\bin
   ```
-
----
 
 ### ⚡ 2. Install Apache Spark
 
@@ -221,7 +218,6 @@ C:\
 | HADOOP_HOME | C:\hadoop                                                  |
 | PATH        | %JAVA_HOME%\bin;<br>%SPARK_HOME%\bin;<br>%HADOOP_HOME%\bin |
 
----
 
 
 
